@@ -12,7 +12,7 @@ reate table autor(
     email varchar(100),
     iban varchar(50)
 );
-create table dijelo(
+create table djelo(
     sifra int not null primary key auto_increment,
     naziv varchar(50) not null,
     
